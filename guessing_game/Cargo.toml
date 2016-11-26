@@ -1,0 +1,9 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Omega014 <metallic.code@gmail.com>"]
+
+[dependencies]
+rand="0.3.0"  # 0.3.0と互換性のある最新のバージョン
+# rand="=0.3.0"  # 指定のバージョンを使いたい時
+# rand="*"  #最新版を使いたい時
